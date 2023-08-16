@@ -4,6 +4,7 @@ body {
   /* color: black; */
   font-size: 13pt;	
   background-image:url('./img1.jpg');	
+  background-color:black;
   background-size: cover;
   /* background-blend-mode: 2px; */
 }
